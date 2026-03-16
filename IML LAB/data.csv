@@ -1,0 +1,9 @@
+ID,Age,Salary,City,Gender,Target
+1,25,50000,Chennai,Male,1
+2,30,60000,Delhi,Female,0
+3,,55000,Chennai,Female,1
+4,35,,Mumbai,Male,0
+5,28,58000,Delhi,Female,1
+6,40,65000,Mumbai,Male,0
+7,,62000,Chennai,Male,1
+8,32,70000,,Female,0
